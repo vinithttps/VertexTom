@@ -67,3 +67,81 @@ git add -A
 git commit -m "clone"
 git add -A
 git commit -m "clone"
+cd
+pwd
+ls
+git add -A
+git commit -m clone
+git push
+git push --set-upstream origin master
+git add -A
+git commit -m "clone"
+git push
+ls
+cd VertexTom/
+ls
+git clone https://github.com/knbtechnosys/myansible_6pm.git
+git add -A
+ls
+cd ..
+ls
+git push
+cd
+pwd
+ls
+git add -A
+git commit -m "C"
+ls
+git pull
+ls
+cd VertexTom/
+git pull
+ls
+cd thistomcatrole/
+ls
+cd ..
+ls
+git add -A
+git commit -m "C"
+git push
+ls
+cd myansible_6pm/
+ls
+git add- A
+cd ..
+ls
+git push
+ls
+ls thistomcatrole/
+rm -m thistomcatrole/
+rn -n thistomcatrole/
+ls
+rn -m thistomcatrole/
+rm -n thistomcatrole/
+rm -r thistomcatrole/
+ls
+rm -r myansible_6pm/
+ls
+ls myansible_6pm/
+ls
+cd myansible_6pm/
+ls
+cd ..
+ls
+rm -r myansible_6pm/
+git pull
+ls
+cd myansible_6pm/
+ls
+cd ..
+ls
+rm -f myansible_6pm/
+rm -f -r myansible_6pm/
+ls
+git clone https://github.com/knbtechnosys/myansible_6pm.git
+git add -A
+ls
+git add -A
+git commit -m "C"
+git push
+ls
