@@ -28,3 +28,42 @@ ansible-galaxy init thistomcatrole
 tree thistomcatrole/
 cd
 exit
+cd
+pwd
+cd
+pwd
+ls
+cd VertexTom/
+ls
+tree thistomcatrole/
+git add -A
+git commit -m "Installation"
+git config --global user.email "ankamvinit@gmail.com"
+git config --global user.name "vinithttps"
+git add -A
+git commit -m "Installation"
+git push
+git clone https://github.com/knbtechnosys/myansible_6pm.git
+cd
+pwd
+ls
+git clone https://github.com/knbtechnosys/myansible_6pm.git
+ls
+git add -A
+ls
+git add -A
+git commit -m "Clone"
+git push
+git add -A
+git commit -m "Clone"
+git push
+ls
+git add -A
+git commit -m "clone"
+git push
+cd myansible_6pm/
+ls
+git add -A
+git commit -m "clone"
+git add -A
+git commit -m "clone"
